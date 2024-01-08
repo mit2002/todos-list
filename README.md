@@ -1,6 +1,6 @@
 # Preview PlanYourDay React App by clicking on following link
 
-manageyourdaymit.netlify.app
+https://manageyourdaymit.netlify.app
 
 # Getting Started with Create React App
 
